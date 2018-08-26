@@ -1,4 +1,4 @@
-Create a new branch is quick & simple
+Create a new branch is quick AND simple
 this is my third file
 make some new changes
 again new changes
